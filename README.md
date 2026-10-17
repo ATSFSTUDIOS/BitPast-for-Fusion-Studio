@@ -1,4 +1,5 @@
-# BitPast - Retro Graphics Converter
+# BitPast for Fusion Studio 
+**A Retro Graphics Converter**
 
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
 ![Language](https://img.shields.io/badge/language-Swift%20%7C%20C-orange)
